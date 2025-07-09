@@ -8,6 +8,7 @@ This project implements an enhanced Deep Q-Network (DQN) using PyTorch to solve 
 - **Animated Visualization of Agent's Performance**
 
 
+
 ## 🚀 Project Structure
 
 ```
@@ -26,6 +27,7 @@ rl-dqn-cartpole/
 ## 📊 Training Graph
 
 The agent is trained for 1200 episodes with shaped rewards. The graph below shows the shaped total reward per episode.
+![reward_plot](https://github.com/user-attachments/assets/f5c38f9e-03b0-4ee6-b348-028f089be357)
 
 ## 🧠 How It Works
 
