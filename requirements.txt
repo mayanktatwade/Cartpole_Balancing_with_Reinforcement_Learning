@@ -1,0 +1,7 @@
+torch
+numpy
+gym[classic-control]
+matplotlib
+ffmpeg-python
+pygame
+pillow
