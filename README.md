@@ -8,8 +8,7 @@ This project implements an enhanced Deep Q-Network (DQN) using PyTorch to solve 
 - **Animated Visualization of Agent's Performance**
 
 
-
-## 🚀 Project Structure
+ Project Structure
 
 ```
 rl-dqn-cartpole/
@@ -81,6 +80,10 @@ Saved outputs:
 
 - `dqn_cartpole_colab.gif`
 - `dqn_cartpole_colab.mp4`
+- `output: `
+![dqn_cartpole_colab](https://github.com/user-attachments/assets/c8d9f6c8-4ddf-4a8e-8190-e21417241ea3)
+
+## 🚀
 
 
 ## 📬 Contact
